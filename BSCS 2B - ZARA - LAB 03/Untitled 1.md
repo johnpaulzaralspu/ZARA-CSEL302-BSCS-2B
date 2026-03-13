@@ -17,11 +17,11 @@ John Paul C. Zara| BSCS 2B | CSEL 302
 3.	What does this expression mean? 
 student mean_of each.attention 
   -- I understand this expression shows as getting the average attention level of all students in the class. The model checks the attention value of every student and then calculates the average to see how focused the whole class is.
-# student – this refers to all the students in the model or class.
-# mean_of – this means to calculate the average.
-# each    – this means the model checks every student one by one.
-# . (dot) – this is used to connect the student to their variable.
-# attention – this is the variable that shows how focused a student is during class.
+student – this refers to all the students in the model or class.
+mean_of – this means to calculate the average.
+each    – this means the model checks every student one by one.
+. (dot) – this is used to connect the student to their variable.
+attention – this is the variable that shows how focused a student is during class.
 
 4.	What happens if attention continuously decreases without a break? 
   -- If attention continues to decrease, then it will eventually reach a state where its value will be zero or a very low number. This means that, in the simulation, the students (agents) will become completely inattentive, i.e., they will no longer be focused on the lesson.
@@ -156,5 +156,6 @@ Add a teacher species that:
 Option C: Fatigue Model Add: 
 8.	If attention < 0.3 for 10 cycles → performance decreases. 
  
+
 
 
