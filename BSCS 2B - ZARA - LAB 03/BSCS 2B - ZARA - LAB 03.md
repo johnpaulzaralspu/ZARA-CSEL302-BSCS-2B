@@ -127,13 +127,16 @@ Is performance strongly dependent on attention?
   -- Yes, performance strongly depends on attention, and the data proves it. When students are on break and their attention goes up, their performance goes up too at the same time. This happens because in the simulation, a student can only improve their performance when their attention is above 0.8 so if a student is not focused enough, their performance simply does not move at all, it just stays frozen at the same number. Think of it like a locked door where attention is the key you cannot open the door to better performance unless your attention is high enough to unlock it first. And when the break ends and attention starts dropping, performance immediately stops improving and flatlines, proving that without attention, there is zero progress in performance.
 
 # > PART 7 - Critical Thinking Questions 
-1.	Why does performance only increase when attention > 0.6? 
+1.	Why does performance only increase when attention > 0.6?
+   
 --	The performance increases only when attention is greater than 0.6 because the model is based on the idea that students need to be attentive before they can perform well. If the students are not attentive, they may not understand what is being taught to them.
 
-2.	Is this model deterministic or stochastic? 
+3.	Is this model deterministic or stochastic?
+   
 --	The model is stochastic because it is based on random numbers. For example, the attention and mobility are based on the function rnd(), which means that random numbers are generated for the students. Therefore, the results of the simulation can be different each time the program is run.
 
-3.	What real-world classroom factors are missing? 
+5.	What real-world classroom factors are missing?
+   
 •	The real-world classroom factors that are not considered in the model are:
   -- The teaching style of the teacher
   -- The motivation of the students
@@ -141,7 +144,8 @@ Is performance strongly dependent on attention?
   -- The noise in the classroom
   -- The learning abilities of the students
 
-4.	How would peer influence affect the system? 
+7.	How would peer influence affect the system?
+   
   --	Peer influence may make the system more interactive. For instance, a child may be around people who are very attentive. This may make the child more attentive. However, the child may be around people who are distracted. This may make the child less attentive.
  
 # > PART 8 — Advanced Extension Tasks (Choose One) 
@@ -160,6 +164,7 @@ Add a teacher species that:
 Option C: Fatigue Model Add: 
 8.	If attention < 0.3 for 10 cycles → performance decreases. 
  
+
 
 
 
