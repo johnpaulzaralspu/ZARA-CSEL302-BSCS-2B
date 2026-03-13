@@ -128,10 +128,10 @@ Is performance strongly dependent on attention?
 
 # > PART 7 - Critical Thinking Questions 
 1.	Why does performance only increase when attention > 0.6? 
-  --	The performance increases only when attention is greater than 0.6 because the model is based on the idea that students need to be attentive before they can perform well. If the students are not attentive, they may not understand what is being taught to them.
+--	The performance increases only when attention is greater than 0.6 because the model is based on the idea that students need to be attentive before they can perform well. If the students are not attentive, they may not understand what is being taught to them.
 
 2.	Is this model deterministic or stochastic? 
-  --	The model is stochastic because it is based on random numbers. For example, the attention and mobility are based on the function rnd(), which means that random numbers are generated for the students. Therefore, the results of the simulation can be different each time the program is run.
+--	The model is stochastic because it is based on random numbers. For example, the attention and mobility are based on the function rnd(), which means that random numbers are generated for the students. Therefore, the results of the simulation can be different each time the program is run.
 
 3.	What real-world classroom factors are missing? 
 •	The real-world classroom factors that are not considered in the model are:
@@ -160,5 +160,6 @@ Add a teacher species that:
 Option C: Fatigue Model Add: 
 8.	If attention < 0.3 for 10 cycles → performance decreases. 
  
+
 
 
