@@ -124,7 +124,7 @@ Proof of Output: End of the simulation when all circles have turned red
 ---
 
 ## PART 8 — Guide Questions & Answers
-- Answer the following questions.
+Answer the following questions.
 **Q1. What happens to students when energy reaches 0?**
 
 When a student's energy reaches 0, the update_status reflex changes their status to "inactive" and their circle turns red on the display. Since the participate reflex only runs when: status = "active", the student completely stops participating for the rest of the simulation.
