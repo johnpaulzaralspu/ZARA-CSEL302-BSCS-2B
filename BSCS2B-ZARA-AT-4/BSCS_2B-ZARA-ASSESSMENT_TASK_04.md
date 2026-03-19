@@ -94,11 +94,14 @@ Proof of Output: ![alt text](image-4.png)
 
 ## PART 7 — Step 6: Run the Simulation
 - I have added, Live dashboard values — these update every step so you can watch the average score, average energy, and number of inactive students change in real time as the simulation runs.
+
 Proof of Output: ![alt text](image-5.png)
 - Then added Aspect definition inside the Student species. This aspect makes every student appear as a small circle, colored according to their current color attribute. Purple when active, red when inactive.
+
 Proof of Output: ![alt text](image-6.png)
 - Then, What is the `experiment classroom_simulation type: gui`? This shows that it opens the visual window so you can see students as colored circles, and without it the simulation runs invisibly.
 - Then lastly, `What are the Live Dashboard Values`? This shows the three monitors act like a live scoreboard updating every step, with a breakdown of what each one (avg_score, avg_energy, inactive_student).
+
 Proof of Output: ![alt text](image-7.png)
 
 > **Outcome:** The simulation ran successfully with 20 student agents appearing as purple circles that turned red once their energy reached zero. The live dashboard updated in real time showing the average score, average energy, and inactive student count. This demonstrated emergent behavior where each run produced different results but followed the same overall pattern of gradual student depletion. 
