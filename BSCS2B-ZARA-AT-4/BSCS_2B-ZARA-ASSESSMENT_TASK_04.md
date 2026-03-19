@@ -107,9 +107,9 @@ Proof of Output: ![alt text](image-7.png)
 > **Outcome:** The simulation ran successfully with 20 student agents appearing as purple circles that turned red once their energy reached zero. The live dashboard updated in real time showing the average score, average energy, and inactive student count. This demonstrated emergent behavior where each run produced different results but followed the same overall pattern of gradual student depletion. 
 
 Observe the following:
-    - Which students participate the most
-    - How energy changes over time
-    - When students become inactive
+- Which students participate the most
+- How energy changes over time
+- When students become inactive
 
 Proof of Output: 2D display showing a mix of purple and red circles
 ![alt text](image-8.png)
