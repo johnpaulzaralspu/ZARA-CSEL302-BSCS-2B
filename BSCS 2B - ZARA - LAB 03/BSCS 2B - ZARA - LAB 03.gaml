@@ -1,5 +1,5 @@
 /**
-* Name: BSCS2BZARALAB03
+* Name: BSCS_2B-ZARA-LAB-03
 * Based on the internal empty template. 
 * Author: JOHN PAUL ZARA
 * Tags: 
