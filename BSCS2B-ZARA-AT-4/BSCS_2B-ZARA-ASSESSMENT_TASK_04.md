@@ -25,8 +25,8 @@ Each **student agent** has the following attributes:
 ## PART 2 — Step 1: Create the Model
 
 Create a new GAMA model file named `classroom_simulation.gaml` and start with:
-Proof of Output:
-![alt text](image.png)
+
+Proof of Output: ![alt text](image.png)
 
 ---
 
