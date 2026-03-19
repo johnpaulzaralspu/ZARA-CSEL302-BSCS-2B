@@ -32,7 +32,7 @@ global {
             is_break <- ! is_break;
         }
 
-        // 🔹 Save CSV (same working pattern as disaster model)
+        // Save CSV (same working pattern as disaster model)
         save [
             cycle,
             avg_attention,
