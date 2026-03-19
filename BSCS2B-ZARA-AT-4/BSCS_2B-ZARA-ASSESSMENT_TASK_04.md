@@ -140,7 +140,9 @@ Every time a student participates, their score goes up by 1 but their energy goe
 **Q3. If participation probability increases to 0.8, what happens?**
 
 If I change flip(0.4) to flip(0.8), students will have an 80% chance of participating every step instead of 40%. This means they gain score much faster but also lose energy much quicker, so all students will turn red and become inactive a lot sooner than before.
+
 Proof of Outcome: ![alt text](image-11.png)
+
 ---
 
 **Q4. What pattern do you observe in the simulation?**
