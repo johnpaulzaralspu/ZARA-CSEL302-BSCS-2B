@@ -123,7 +123,7 @@ The average energy level steadily decreased to around 0.45. This decline in ener
 
 ---
 
-- When students become inactive - 
+- When students become inactive -
 Students began to show inactivity at cycle 7. As the simulation progressed, more students dropped out, and by cycle 20, all students were inactive or exhausted.
 
 ---
