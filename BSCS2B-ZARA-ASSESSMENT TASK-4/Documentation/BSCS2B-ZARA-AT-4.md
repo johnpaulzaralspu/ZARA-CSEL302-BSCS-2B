@@ -113,15 +113,15 @@ Proof of Output: ![alt text](image-7.png)
 
 ## PART 7 — Step 6: Run the Simulation
 Observe the following:
-- Which students participate the most - From cycles 0–6, all students were actively participating in the lesson. Starting at cycle 7, inactivity began to appear, indicating a decline in engagement.
+- **Which students participate the most** - From cycles 0–6, all students were actively participating in the lesson. Starting at cycle 7, inactivity began to appear, indicating a decline in engagement.
 
 ---
 
-- How energy changes over time - The average energy level steadily decreased to around 0.45. This decline in energy directly influenced student participation, as lower energy levels led to inactivity.
+- **How energy changes over time** - The average energy level steadily decreased to around 0.45. This decline in energy directly influenced student participation, as lower energy levels led to inactivity.
 
 ---
 
-- When students become inactive - Students began to show inactivity at cycle 7. As the simulation progressed, more students dropped out, and by cycle 20, all students were inactive or exhausted.
+- **When students become inactive** - Students began to show inactivity at cycle 7. As the simulation progressed, more students dropped out, and by cycle 20, all students were inactive or exhausted.
 
 ---
 
